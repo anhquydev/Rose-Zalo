@@ -1,0 +1,4 @@
+.soiz/
+__pycache__/
+*.pyc
+*.bak

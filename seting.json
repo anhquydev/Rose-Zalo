@@ -1,0 +1,12 @@
+{
+    "prefix": ".",
+    "name_bot": "AQ ZALO BOT",
+    "version": "4.8.0",
+    "autorestart": "True",
+    "admin": ["3586564051212905001"],
+    "account_bot": "3586564051212905001", 
+    "adm": [
+        "3586564051212905001",
+        ""
+    ]
+}
