@@ -1,2 +1,5 @@
-pillow
-zlapi
+requests
+Pillow
+ffmpeg-python
+pyfiglet
+colorama
