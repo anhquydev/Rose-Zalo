@@ -1,6 +1,16 @@
-zlapi
 requests
 Pillow
 ffmpeg-python
 pyfiglet
 colorama
+bs4
+aiohttp
+deep-translator
+gtts
+psutil
+fake-useragent
+munch
+emoji
+websockets
+pygments
+pytz
